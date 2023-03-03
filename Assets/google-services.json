@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252837260778",
+    "project_id": "dogs-and-jackals",
+    "storage_bucket": "dogs-and-jackals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252837260778:android:dd9fe59317eeeacddc9693",
+        "android_client_info": {
+          "package_name": "com.KuzneczovGamedev.DogsAndJackals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252837260778-e7irq5f64jq3d88m6tfc8s78em99ridq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMEqKJZ_wSu9s_M6YTHJLRQ1xcFfhG2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252837260778-e7irq5f64jq3d88m6tfc8s78em99ridq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
